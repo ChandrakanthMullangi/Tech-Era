@@ -1,0 +1,14 @@
+.tech-era-header {
+  background-color: #f1f5f9;
+  height: 14vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  padding-left: 25px;
+}
+
+.tech-era-logo {
+  height: 50px;
+  width: auto;
+}
